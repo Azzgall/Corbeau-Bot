@@ -1,6 +1,6 @@
 module.exports = {
     clients: {
         token: "TOKEN",
-        owners: ["OWNER1", "OWNER2"]
+        owners: ["1282227727218511884", "OWNER2"]
     }
 }
